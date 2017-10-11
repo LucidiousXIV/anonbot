@@ -1,0 +1,19 @@
+{
+    "name": "AnonBot",
+    "version": "1.1.0",
+    "description": "AnonBot - Moderation and Fun",
+    "main": "anonbot.js",
+    "author": "LucidiousXIV",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^2.1.0",
+        "discord.js": "^11.2.1",
+        "fs": "0.0.1-security",
+        "libsodium-wrappers": "^0.5.4",
+        "moment": "^2.18.1",
+        "nodemon": "^1.12.1",
+        "opusscript": "0.0.4",
+        "sodium": "^2.0.1",
+        "uws": "^8.14.1"
+    }
+}
